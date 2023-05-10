@@ -18,12 +18,30 @@ Medway Local Elections 2023
 
 
 ### How to get boundary data  
+*Download from National Archives - convert to GeoJSON*
+1) Get the mapping files from the National Archives
+[Mapping files]  
+https://webarchive.nationalarchives.gov.uk/ukgwa/20221201172612/https://www.lgbce.org.uk/all-reviews/south-east/kent/medway 
 
+2) Extract ZIP and convert shp file to GeoJSON
+```
+import geopandas
+myshpfile = geopandas.read_file('data/Medway_final_proposals.shp')
+myshpfile.to_file('Medway.geojson', driver='GeoJSON')
+```
+Source:
+[StackOverflow] How to get lat and lon from a GeoPandas geodataframe polygon
+https://gis.stackexchange.com/questions/412817/how-to-get-lat-and-lon-from-a-geopandas-geodataframe-polygon
+
+
+
+*Alternative method for generating SVG file*  
 1) Download Medway Boundary map from LGBC  
 2) Import PDF into Inkscape  
 3) Edit layers  
 
 
+### How to convert (projected coordiante) shp file to GeoJSON
 
 ### Links  
 
@@ -37,3 +55,5 @@ https://www.medwayelects.co.uk/
 - Medway Election results and analysis
 
 
+Mapping files
+https://webarchive.nationalarchives.gov.uk/ukgwa/20221201172612/https://www.lgbce.org.uk/all-reviews/south-east/kent/medway
