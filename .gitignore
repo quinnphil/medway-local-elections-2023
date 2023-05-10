@@ -2,3 +2,4 @@
 .ipynb_checkpoints
 data/*.html
 data/wards/*.html
+docs/medway_order_map.pdf
