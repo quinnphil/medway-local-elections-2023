@@ -1,6 +1,9 @@
 Medway Local Elections 2023  
 ===========================  
 
+### Disclaimer  
+This project is being developed as part of non-commercial research into voting behaviour and sentiment within the local council of Medway in the United Kingdom.   
+
 ### Description   
 - web scraping of 2023 Medway Council local election results (with local caching)  
 - data ETL  
@@ -29,7 +32,7 @@ https://webarchive.nationalarchives.gov.uk/ukgwa/20221201172612/https://www.lgbc
 https://webarchive.nationalarchives.gov.uk/ukgwa/20221201172612mp_/https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20East/Kent/Medway/Final/Medway_final_proposals.zip  
 
 
-2) Extract ZIP and convert shp file to GeoJSON
+2) Extract ZIP and convert (projected coordiante) shp file to GeoJSON
 ```
 import geopandas
 myshpfile = geopandas.read_file('data/Medway_final_proposals.shp')
@@ -46,8 +49,6 @@ https://gis.stackexchange.com/questions/412817/how-to-get-lat-and-lon-from-a-geo
 2) Import PDF into Inkscape  
 3) Edit layers  
 
-
-### How to convert (projected coordiante) shp file to GeoJSON
 
 ### Links  
 
