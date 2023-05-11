@@ -4,6 +4,8 @@ Medway Local Elections 2023
 ### Disclaimer  
 This project is being developed as part of non-commercial research into voting behaviour and sentiment within the local council of Medway in the United Kingdom.   
 
+
+
 ### Description   
 - web scraping of 2023 Medway Council local election results (with local caching)  
 - data ETL  
@@ -48,6 +50,12 @@ https://gis.stackexchange.com/questions/412817/how-to-get-lat-and-lon-from-a-geo
 1) Download Medway Boundary map from LGBC  
 2) Import PDF into Inkscape  
 3) Edit layers  
+
+### Boundary data
+
+Any Boundary-Line data owned by Ordance Survey that forms part of this repo falls under the Ordance Survey OpenData initiative and is subject to the terms of Open Government License linked below.
+
+https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 
 
 ### Links  
