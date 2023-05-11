@@ -19,9 +19,15 @@ Medway Local Elections 2023
 
 ### How to get boundary data  
 *Download from National Archives - convert to GeoJSON*
-1) Get the mapping files from the National Archives
-[Mapping files]  
+1) Get the mapping files from the National Archives  
+
+[Archived site]
 https://webarchive.nationalarchives.gov.uk/ukgwa/20221201172612/https://www.lgbce.org.uk/all-reviews/south-east/kent/medway 
+
+
+[Mapping files]  
+https://webarchive.nationalarchives.gov.uk/ukgwa/20221201172612mp_/https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20East/Kent/Medway/Final/Medway_final_proposals.zip  
+
 
 2) Extract ZIP and convert shp file to GeoJSON
 ```
