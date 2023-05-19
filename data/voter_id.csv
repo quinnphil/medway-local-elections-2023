@@ -1,0 +1,27 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,Ward,Number of people who tried to vote at a polling station who did not have ID or accepted ID,Number of people who tried to vote at a polling station but did not have ID or accepted ID who then came back and got a ballot paper,Number of people who tried to vote at a polling station but did not have ID or accepted ID who did not come back to polling station,Number of people eligible to vote in this election ,Number of people who were given ballot papers in this election ,% of people eligible to vote in person at the polling stations who voted,% who came to the polling station and were able to vote in this election,% of polling station voters who tried to vote but were refused who did not come back and get a ballot paper ,"% of polling station electors who applied for, but were initially refused, a ballot paper","Of the electors initially refused a ballot paper, the % who later returned with accepted ID and were issued with a ballot paper"
+1,All Saints,7,5,2,2974,634,21.32,99.7%,0.3%,1.1%,71.4%
+2,Chatham Central & Brompton,22,13,9,8704,1194,13.72,99.3%,0.7%,1.8%,59.1%
+3,"Cuxton, Halling & Riverside",8,4,4,5226,1368,26.18,99.7%,0.3%,0.6%,50.0%
+4,Fort Horsted,4,3,1,2900,717,24.72,99.9%,0.1%,0.6%,75.0%
+5,Fort Pitt,27,17,10,7757,1904,24.55,99.5%,0.5%,1.4%,63.0%
+6,Gillingham North,14,9,5,8661,1347,15.55,99.6%,0.4%,1.0%,64.3%
+7,Gillingham South,26,10,16,9538,1608,16.86,99.0%,1.0%,1.6%,38.5%
+8,Hempstead & Wigmore,2,1,1,6110,1776,29.07,99.9%,0.1%,0.1%,50.0%
+9,Hoo St Werburgh & High Halstow,3,2,1,8439,2346,27.80,100.0%,0.0%,0.1%,66.7%
+10,Lordswood & Walderslade,5,4,1,8668,1658,19.13,99.9%,0.1%,0.3%,80.0%
+11,Luton,4,4,0,5598,848,15.15,100.0%,0.0%,0.5%,100.0%
+12,Princes Park,6,3,3,5311,808,15.21,99.6%,0.4%,0.7%,50.0%
+13,Rainham North,2,2,0,8490,1827,21.52,100.0%,0.0%,0.1%,100.0%
+14,Rainham South East,8,5,3,8797,1810,20.58,99.8%,0.2%,0.4%,62.5%
+15,Rainham South West,4,2,2,5945,1506,25.33,99.9%,0.1%,0.3%,50.0%
+16,Rochester East & Warren Wood,28,18,10,7779,1670,21.47,99.4%,0.6%,1.7%,64.3%
+17,Rochester West & Borstal,15,15,0,6991,2269,32.46,100.0%,0.0%,0.7%,100.0%
+18,St Mary's Island,5,3,2,2650,673,25.40,99.7%,0.3%,0.7%,60.0%
+19,Strood North & Frindsbury,21,17,4,8467,2115,24.98,99.8%,0.2%,1.0%,81.0%
+20,Strood Rural,4,4,0,8586,1880,21.90,100.0%,0.0%,0.2%,100.0%
+21,Strood West,18,12,6,8081,1442,17.84,99.6%,0.4%,1.2%,66.7%
+22,Twydall,7,5,2,5949,1003,16.86,99.8%,0.2%,0.7%,71.4%
+23,Watling,15,12,3,8273,2108,25.48,99.9%,0.1%,0.7%,80.0%
+24,Wayfield & Weeds Wood,6,5,1,5653,1033,18.27,99.9%,0.1%,0.6%,83.3%
+25,Total,261,175,86,165547,35544,21.47%,99.8%,0.2%,0.7%,67%
